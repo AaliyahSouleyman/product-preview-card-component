@@ -1,9 +1,9 @@
-# Frontend Mentor - Product preview card component solution
+# Product Preview Card Component 
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).  
 
 
-
+![alt text](https://imgur.com/a/y4Mh34U)
 
 ### The challenge
 
@@ -18,10 +18,8 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Media Queries
-- Mobile-first workflow
+- CSS 
+
 
 
 
