@@ -6,7 +6,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ![alt text](https://imgur.com/jPkjhSI.png)
 
-### The challenge
+### The Challenge
 
 Users should be able to:
 
@@ -16,7 +16,7 @@ Users should be able to:
 
 
 
-### Built with
+### Built With
 
 - Semantic HTML5 Markup
 - CSS Custom Variables
